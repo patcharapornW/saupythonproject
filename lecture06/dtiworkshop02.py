@@ -23,3 +23,4 @@ carNo, carWeight = inputCarDetail()
 print('---------------------------')
 checkCarAndShowWeight(carNo, carWeight)
 print('---------------------------')
+#dsfs
