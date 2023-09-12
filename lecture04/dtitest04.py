@@ -1,0 +1,1 @@
+#Function แบบที่ 3 - No parameters/No return
