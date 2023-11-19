@@ -1,6 +1,6 @@
 def inputInformation() :
     number = int(input('รหัสพนักงาน : '))
-    name = str(input('ฃื่อพนักงาน : '))
+    name = str(input('ชื่อพนักงาน : '))
     total = float(input('เงินเดือน : '))
     return number,name,total
 
